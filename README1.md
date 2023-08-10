@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todolist
 
 (서버 테스트 완료함.)
@@ -21,3 +22,6 @@ npm install react-scripts 해서 다운받는다.
 
 npm start 로 실행하면 끝 ! 서버에서 데이터 불러와진거 보여질거다. date 날짜 데이터도 넣어져ㅑ 있음
 이래도 안되면 나 운다 엉엉
+=======
+# todo-list
+>>>>>>> f2f21b2d9439cf23bc3a48142e5ff39eac6a737e
